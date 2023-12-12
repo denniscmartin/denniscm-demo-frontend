@@ -1,1 +1,1 @@
-# denniscm-demo-frontend [DEPRECATED]
+# denniscm-demo-frontend
